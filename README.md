@@ -1,4 +1,4 @@
-# GoExpert - Temperature by Postal
+# GoExpert - Temperature by Postal Code
 
 ### Challenge description:
 
