@@ -1,0 +1,8 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: dockerfile
+    container_name: temp_by_postal_code
+    ports:
+      - "8080:8080"
